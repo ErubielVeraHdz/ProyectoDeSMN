@@ -1,3 +1,1 @@
-# smn
-
-A new Flutter project.
+# ProyectoSMN
